@@ -1,0 +1,12 @@
+{
+ "name": "Neotoma",
+ "children": [
+  {"name": "North American Pollen Database", 
+    "children":  [{"name":"Canadian Pollen Database", "size":6},
+      {"name":"Canadian Modern Pollen Database", "size":6}]},
+  {"name": "Latin American Pollen Database", "size":2},
+  {"name": "European Pollen Database", "size":3},
+  {"name": "FAUNMAP", "size":4},
+  {"name": "Japanese Pollen Database", "size":5}
+ ]
+}
